@@ -1,2 +1,0 @@
-##My First git test file
-*Have a good day everybody
